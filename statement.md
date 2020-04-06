@@ -1,4 +1,4 @@
-# Neon Tuts
+# Welcome
 
 This Node.js template lets you get started quickly with a simple one-page playground.
 
